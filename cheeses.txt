@@ -1,9 +1,9 @@
-- Brie
-- Blue
-- Red Leicester
-- Fontina
-- Compté
-- Wensleydale
-- Roquefort
-- Mozzarella
 - Cheddar
+- Mozzarella
+- Roquefort
+- Wensleydale
+- Compté
+- Fontina
+- Red Leicester
+- Blue
+- Brie
