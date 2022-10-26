@@ -1,7 +1,7 @@
-- Cheddar
-- Mozzarella
-- Roquefort
-- Compté
-- Fontina
-- Red Leicester
 - Brie
+- Red Leicester
+- Fontina
+- Compté
+- Roquefort
+- Mozzarella
+- Cheddar
